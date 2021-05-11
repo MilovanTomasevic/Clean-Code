@@ -3,7 +3,7 @@ Learn how to write readable, understandable and therefore maintainable code - st
 
 ### Certifications
 
-- [Clean Code](https://nlb.udemy.com/certificate/UC-f232cf11-dd10-448b-b760-9186981b2725/)
+- [Clean Code](https://udemy.com/certificate/UC-f232cf11-dd10-448b-b760-9186981b2725/)
 
 ### Awknowledgements
 
